@@ -1,14 +1,7 @@
 <h1 align="left">Hello 👋, my name is Utba Zafar.</h1>
 
-<p align="left">A software developer with a background in system engineering focused on providing quality service and technical support. Possessing a logical and open-minded approach, I excel at identifying core issues and providing creative solutions. I transitioned from system engineering to coding to expand my skill set and contribute to web development, application building, and automation. Seeking a role to demonstrate proficiency in HTML, CSS, JS, React, and various frontend frameworks.</p>
-
-<h2 align="left">⭐ About Me:</h2>
-<p>Open to Frontend and Software Developer Opportunities.</p>
-
-- 🔭 I’m currently trying to contribute to **_Open Source_**
-- 🌱 I’m currently learning **_EVERYTHING_**
-- 👨‍💻 All of my projects are available at [www.utbazafar.com](www.utbazafar.com)
-- ⚡ Fun fact: **_I love to sketch**
+<p align="left">
+I'm a System Engineer with a knack for providing quality service and technical support. I have a logical and open-minded approach, which helps me identify core issues and come up with creative solutions. My background includes designing, implementing, and maintaining complex IT systems to meet high performance and security standards. To keep my skills sharp, I tinker with a homelab setup where I can play with different technologies and recreate real-world scenarios. I love diving into system architecture, network configuration, virtualization, and automation using tools like Docker, Kubernetes, Ansible, and various cloud platforms.</p>
 
 <br>
 <h2 align="left">📱 Socials:</h2>
