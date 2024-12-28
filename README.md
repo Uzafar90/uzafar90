@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, my name is Utba Zafar.</h1>
 
 <p align="left">
-I'm a System Engineer with a knack for providing quality service and technical support. I have a logical and open-minded approach, which helps me identify core issues and come up with creative solutions. My background includes designing, implementing, and maintaining complex IT systems to meet high performance and security standards. To keep my skills sharp, I tinker with a homelab setup where I can play with different technologies and recreate real-world scenarios. I love diving into system architecture, network configuration, virtualization, and automation using tools like Docker, Kubernetes, Ansible, and various cloud platforms.</p>
+Systems Engineer 💼 <br> DevOps Enthusiast 🔁 <br> HomeLab Nerd 🔧</p>
 
 <br>
 <h2 align="left">Socials</h2>
