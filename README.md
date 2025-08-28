@@ -7,7 +7,6 @@ Systems Engineer 💼 <br> DevOps Enthusiast 🔁 <br> HomeLab Nerd 🔧</p>
 <h2 align="left">Socials</h2>
 <a href="https://twitter.com/iamutba" target="_blank" rel="noreferrer"> <img src="https://www.iconsdb.com/icons/preview/white/twitter-x-xxl.png" alt="css3" width="20" height="20"/> </a>
 <a href="https://www.linkedin.com/in/utba-zafar/" target="_blank" rel="noreferrer"> <img src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png" alt="css3" width="20" height="20"/> </a>
-<a href="https://www.instagram.com/iamutba/" target="_blank" rel="noreferrer"> <img src="https://www.iconsdb.com/icons/preview/white/instagram-6-xxl.png" alt="css3" width="20" height="20"/> </a>
 <a href="https://www.twitch.tv/iamutba/" target="_blank" rel="noreferrer"> <img src="https://www.iconsdb.com/icons/preview/white/twitch-tv-xxl.png" alt="css3" width="20" height="20"/> </a>
 <br>
 
