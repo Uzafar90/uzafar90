@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, my name is Utba Zafar.</h1>
 
 <p align="left">
-Systems Engineer 💼 <br> DevOps Enthusiast 🔁 <br> HomeLab Nerd 🔧</p>
+Systems Engineer 💼 <br> HomeLab Nerd 🔧</p>
 
 <br>
 <h2 align="left">Important Links</h2>
